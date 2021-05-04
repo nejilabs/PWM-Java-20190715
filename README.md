@@ -1,4 +1,4 @@
-# PWM-JavaTutorial2020-20190715
+# PWM-Java-20190715
 
 Programming with Mosh - Java Tutorial for Beginners [2020] (Jul 15, 2019) 
 
